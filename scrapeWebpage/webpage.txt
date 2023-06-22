@@ -1,1 +1,4 @@
 https://www.knowde.com/b/markets-personal-care/products
+
+description_class = 'css-1ooq65o e1uv08lu0'
+container = 'e1np0cu90 e1hg47tz0 css-m4e2h0 ev4fpqn0'
